@@ -3,8 +3,8 @@
 Fill a portrait silhouette with scenery, drift the layers in opposite directions and reveal a title through mist.
 
 Template & full download: https://motiongit.com/@prism-studio/visual-art-f-double
-Version: 2.6.4
-Download available; current terms are listed with the package.
+Version: 2.6.5
+Demo available. Check the official page for current download availability.
 
 ## Technical reference
 
